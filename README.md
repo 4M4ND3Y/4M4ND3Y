@@ -9,7 +9,7 @@ I'm a **Computer Science and Engineering (CSE)** student at **Jalpaiguri Governm
 - Enhancing my **English communication skills** for tech interviews
 
 ## 🛠️ Technologies & Tools
-- **Programming:** Python, C++, MySQL
+- **Programming:** Python, C++, Java, MySQL
 - **Development:** Web (HTML, CSS, JavaScript, React)
 - **Other Tools:** Excel, Word, PowerPoint, Git, GitHub
 

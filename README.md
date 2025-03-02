@@ -19,8 +19,8 @@ I'm a **Computer Science and Engineering (CSE)** student at **Jalpaiguri Governm
 - Improve problem-solving skills in **DSA & Competitive Programming**
 
 ## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/amandey
-- **GitHub:** github.com/404AmanNotFound
+- **LinkedIn:** [amandey](https://www.linkedin.com/in/amandey)
+- **GitHub:** [404AmanNotFound](https://github.com/404AmanNotFound)
 
 Feel free to check out my repositories and projects. Let's build something amazing together! 🚀
 

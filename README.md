@@ -20,7 +20,7 @@ I'm a **Computer Science and Engineering (CSE)** student at **Jalpaiguri Governm
 
 ## 📫 Connect With Me
 - **LinkedIn:** [amandey](https://www.linkedin.com/in/amandey)
-- **GitHub:** [404AmanNotFound](https://github.com/404AmanNotFound)
+- **GitHub:** [4M4ND3Y](https://github.com/4M4ND3Y)
 
 Feel free to check out my repositories and projects. Let's build something amazing together! 🚀
 
